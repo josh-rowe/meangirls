@@ -4,13 +4,10 @@
 \alias{really_pretty}
 \title{Tells someone they are pretty.}
 \usage{
-really_pretty(name, follow_up = TRUE)
+really_pretty(name)
 }
 \arguments{
 \item{name}{The person's name}
-
-\item{follow_up}{Should the function follow up with questions?
-Defaults to `TRUE`.}
 }
 \value{
 A compliment string
